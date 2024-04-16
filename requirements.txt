@@ -1,2 +1,1 @@
-pyshorteners
-streamlit
+streamlit==1.33.0
